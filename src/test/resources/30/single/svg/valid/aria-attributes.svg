@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" version="1.1"
-	xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Test</title>
-	<desc>Cover</desc>
-	<image height="857" width="500" xlink:href="../images/cover.jpg" role="doc-cover"
-		aria-label="Cover"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1200 400"><title>Test</title><desc>Cover</desc><image width="500" height="857" aria-label="Cover" role="doc-cover" xlink:href="../images/cover.jpg"/></svg>
