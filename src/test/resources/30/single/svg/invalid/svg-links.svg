@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="12cm" height="4cm" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg"
-	xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-	<title>Rectangle</title>
-	<desc>Example rect01 - rectangle with sharp corners </desc>
-
-
-	<a xlink:href="doc.xhtml" target="ch1">
-		<text>link</text>
-	</a>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12cm" height="4cm" version="1.1" viewBox="0 0 1200 400"><title>Rectangle</title><desc>Example rect01 - rectangle with sharp corners</desc><a target="ch1" xlink:href="doc.xhtml"><text>link</text></a></svg>
